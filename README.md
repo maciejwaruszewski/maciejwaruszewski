@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maciej Waruszewski!</h1>
 - 🌱 I’m currently learning **Python, Machine Learning and Data Analysis**
 
-- 📫 How to reach me **maciej.waruszewski@gmail.com**
+- 📫 You can reach me **maciej.waruszewski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
