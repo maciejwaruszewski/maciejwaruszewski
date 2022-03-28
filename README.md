@@ -8,8 +8,11 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/maciejwaruszewski)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/maciejwaruszewski)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/maciejwaruszewski#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/maciejwaruszewski#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/MaciejWaruszew1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/MaciejWaruszew1#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
