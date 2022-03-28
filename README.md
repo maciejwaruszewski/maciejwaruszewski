@@ -28,8 +28,6 @@
 <br />
 
 ---
-<details>
-</details>
   
 [twitter]: https://twitter.com/MaciejWaruszew1
 [linkedin]: https://linkedin.com/in/maciejwaruszewski
