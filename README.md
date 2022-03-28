@@ -32,6 +32,6 @@
 [twitter]: https://twitter.com/MaciejWaruszew1
 [linkedin]: https://linkedin.com/in/maciejwaruszewski
 [github]: https://github.com/maciejwaruszewski/
-[gmail]: @maciejwaruszewski
+[gmail]: <maciej.waruszewski@gmail.com>
 
 
