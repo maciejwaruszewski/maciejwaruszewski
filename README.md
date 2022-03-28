@@ -10,11 +10,10 @@
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/MaciejWaruszew1)
-[![website](./img/twitter-dark.svg)](https://twitter.com/MaciejWaruszew1#gh)
+[<img align="left" alt="Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" style="padding-right:10px;" />][gmail]
 &nbsp;&nbsp;
-
-📫 You can reach me **maciej.waruszewski@gmail.com**
+[<img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" style="padding-right:10px;" />][twitter]
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -33,5 +32,6 @@
 [twitter]: https://twitter.com/MaciejWaruszew1
 [linkedin]: https://linkedin.com/in/maciejwaruszewski
 [github]: https://github.com/maciejwaruszewski/
+[gmail]: @maciejwaruszewski
 
 
