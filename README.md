@@ -1,3 +1,7 @@
+
+<p align="center">
+  <a href="https://github.com/maciejwaruszewski" target="_blank" rel="noreferrer"><img src="https://github.com/maciejwaruszewski/maciejwaruszewski/blob/main/baner.png" alt="my banner"></a>
+</p>
 # Hi there, I'm Maciej  👋
 
 - 🔭 I’m currently doing postgraduate studies at UWM Olsztyn
