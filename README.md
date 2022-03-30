@@ -36,6 +36,13 @@
 | R | [Data visualisation using R] |
 | PowerBI | [Data visualisation using PowerBI] |
 
+### 📈 GitHub Stats 
+
+[![Maciej’s github stats](https://github-readme-stats.vercel.app/api?username=maciejwaruszewski)](https://github.com/maciejwaruszewski)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejwaruszewski&layout=compact)](https://github.com/maciejwaruszewski)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maciejwaruszewski.maciejwaruszewski)](https://www.maciejwaruszewski.dev/)
 ---
   
 [twitter]: https://twitter.com/MaciejWaruszew1
