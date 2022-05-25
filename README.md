@@ -7,10 +7,10 @@
 - 🔭 I’m currently doing postgraduate studies at UWM Olsztyn
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about data analysis and machine learning 
-- ⚡ Fun fact: I love to watch Ekstraklasa(top Polish professional football league)
-- 😻 I have a dog called Donut
+- ⚡ Fun fact: I love to watch 3rd Polish Football League
+- 😻 I have a dog called Pączek [eng. donut]
 
-### Connect with me:
+### You can find me below:
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
